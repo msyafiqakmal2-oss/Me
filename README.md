@@ -6,7 +6,7 @@ This Python script is a simple interactive Number Guessing Game. It uses basic p
 Here is a breakdown of how the   code   works :
 1. Setup and Initialization
 
-    import random: This line imports Python's built-in random module, which allows the program to generate unpredictable numbers.
+    import random: This line imports Python's built-in random module, which allows the program to generate unpredictable numbers.and
 
     angka_rahasia = random.randint(1, 10): The program picks a random integer between 1 and 10 (inclusive) and stores it in the variable angka_rahasia (the "secret number").
 
