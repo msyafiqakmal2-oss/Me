@@ -3,7 +3,7 @@ And Thanks For You all
 
 This Python script is a simple  interactive Number Guessing Game. It uses basic programming concepts like loops, conditionals, and random number generation to create a fun, terminal-based experience.
 
-Here is a breakdown of how the   code   works :
+Here is a breakdown of how the code works :
 1. Setup and Initialization
 
     import random: This line imports Python's built-in random module, which allows the program to generate unpredictable numbers.and
